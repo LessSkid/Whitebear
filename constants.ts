@@ -5,7 +5,7 @@ export const PROFILE: ProfileData = {
   name: "Thea!",
   role: "CEO OF Origin Innovation Hub",
   bio: "Loading personality... [||||||||||] 100% Complete. Welcome to the mainframe.",
-  avatar: "./pfp.webp", 
+  avatar: "/assets/pfp.webp", 
   location: "Origin Innovation Hub",
   availability: "ONLINE"
 };
@@ -27,7 +27,7 @@ export const PLAYLIST: MusicTrack[] = [
     artist: 'The One And Bonely',
     url: '/assets/Music/Penumbra_Phantasm.mp3',
     duration: '4.33',
-    cover: './Music/Penumbra_Phantasm.jpg'
+    cover: '/assets/Music/Penumbra_Phantasm.jpg'
   },
   {
     id: '2',
