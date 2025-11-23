@@ -25,25 +25,25 @@ export const PLAYLIST: MusicTrack[] = [
     id: '1',
     title: 'Penumbra Phantasm - Deltarune Chapter 7 UST',
     artist: 'The One And Bonely',
-    url: '/assets/Music/Penumbra_Phantasm.mp3',
+    url: '/Music/Penumbra_Phantasm.mp3',
     duration: '4.33',
-    cover: '/assets/Music/Penumbra_Phantasm.jpg'
+    cover: '/Music/Penumbra_Phantasm.jpg'
   },
   {
     id: '2',
     title: 'Circus Hop',
     artist: 'YonKaGor' ,
-    url: '/assets/Music/Circus_Hop_KLICKAUD.mp3',
+    url: '/Music/Circus_Hop_KLICKAUD.mp3',
     duration: '4:14',
-    cover: '/assets/Music/Circus_Hop.jpeg'
+    cover: '/Music/Circus_Hop.jpeg'
   },
   {
     id: '3',
     title: 'Spoken For',
     artist: 'FLAVOR FOLEY',
-    url: '/assets/Music/Spoken_For.mp3',
+    url: '/Music/Spoken_For.mp3',
     duration: '2:55',
-    cover: '/assets/Music/Spoken_For.jpeg'
+    cover: '/Music/Spoken_For.jpeg'
   }
 ];
 
