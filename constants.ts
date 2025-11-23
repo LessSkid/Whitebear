@@ -5,7 +5,7 @@ export const PROFILE: ProfileData = {
   name: "Thea!",
   role: "CEO OF Origin Innovation Hub",
   bio: "Loading personality... [||||||||||] 100% Complete. Welcome to the mainframe.",
-  avatar: "/pfp.webp", 
+  avatar: "./pfp.webp", 
   location: "Origin Innovation Hub",
   availability: "ONLINE"
 };
