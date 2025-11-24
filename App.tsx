@@ -38,7 +38,7 @@ function App() {
         </Sticker>
         <Sticker className="bottom-12 -left-6 rotate-[5deg]" rotation={5}>
            <div className="w-12 h-12 bg-pink-400 rounded-full border-2 border-black flex items-center justify-center">
-             <span className="text-2xl">🐱</span>
+             <span className="text-2xl">🐻‍❄️</span>
            </div>
         </Sticker>
         <Sticker className="-right-4 top-20 rotate-[15deg]" rotation={15}>
@@ -111,7 +111,7 @@ function App() {
                     {/* Canvas (Content Area) */}
                     <div className="flex-1 bg-white relative overflow-y-auto overflow-x-hidden border-2 border-black shadow-[inset_2px_2px_0_rgba(0,0,0,0.1)] custom-scrollbar">
                         {/* Drawn Elements (Decoration) */}
-                        <div className="absolute top-4 left-4 font-['Press_Start_2P'] text-4xl text-black opacity-10 pointer-events-none select-none z-0">
+                        <div className="absolute top-4 left-4 font-['Press_Start_2P'] text-4xl text-black opacity-10 pointer-events-none select-none 0">
                            TheaTheBear
                         </div>
                         <div className="absolute top-10 right-10 rotate-12 pointer-events-none z-0">
@@ -132,7 +132,7 @@ function App() {
                                       className="relative w-32 h-32 md:w-40 md:h-40 object-cover border-2 border-white bg-white"
                                     />
                                     <div className="absolute -bottom-4 -right-4 bg-yellow-300 text-black text-xs font-bold px-2 py-1 border-2 border-black rotate-[-5deg]">
-                                        Z-Girl
+                                       Bearl
                                     </div>
                                 </div>
                                 <div className="flex-1">
