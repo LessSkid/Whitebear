@@ -144,8 +144,8 @@ function App() {
                                         {PROFILE.bio}
                                     </div>
                                     <div className="flex gap-2">
-                                        <span className="bg-black text-white px-2 py-1 text-sm font-bold rounded-sm">2020-2022</span>
-                                        <span className="bg-transparent border border-black px-2 py-1 text-sm font-bold text-black rounded-sm">ILLUSTRATOR</span>
+                                        <span className="bg-black text-white px-2 py-1 text-sm font-bold rounded-sm">furage 2020-2025</span>
+                                        <span className="bg-transparent border border-black px-2 py-1 text-sm font-bold text-black rounded-sm">CEO OF Origin Innovation Hub</span>
                                     </div>
                                 </div>
                             </div>
