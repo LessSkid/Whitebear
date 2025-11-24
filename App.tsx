@@ -132,7 +132,7 @@ function App() {
                                       className="relative w-32 h-32 md:w-40 md:h-40 object-cover border-2 border-white bg-white"
                                     />
                                     <div className="absolute -bottom-4 -right-4 bg-yellow-300 text-black text-xs font-bold px-2 py-1 border-2 border-black rotate-[-5deg]">
-                                       Bearl
+                                       Bear!
                                     </div>
                                 </div>
                                 <div className="flex-1">
